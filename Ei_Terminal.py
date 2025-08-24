@@ -33,7 +33,8 @@ elif eingabe == "3":
     print("\nFertig, guten Appetit!")
 else:
     print("Ungültige Eingabe. Bitte wähle 1, 2 oder 3.")
-eingabe()
+    eingabe = input("Deine Wahl:")
+
          
          
          
